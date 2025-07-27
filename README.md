@@ -13,7 +13,7 @@
     </table>
 
 <h2>Players</h2>
-      <table style="border-collapse: collapse; width: 800px; margin: 0 auto;">
+      <table style="border-collapse: collapse; width: 1200px; margin: 0 auto;">
         <tr>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Mario</p>
@@ -41,6 +41,15 @@
                 <p>Velocidade: 2</p>
                 <p>Manobrabilidade: 4</p>
                 <p>Poder: 3</p>
+            </td>
+            <td style="border: 1px solid black; text-align: center;">
+                <p>Toad</p>
+                <img src="./docs/toad.gif" alt="Mario Kart" width="60" height="60">
+            </td>
+            <td style="border: 1px solid black; text-align: center;">
+                <p>Velocidade: 2</p>
+                <p>Manobrabilidade: 2</p>
+                <p>Poder: 5</p>
             </td>
         </tr>
         <tr>
@@ -71,6 +80,15 @@
                 <p>Manobrabilidade: 2</p>
                 <p>Poder: 5</p>
             </td>
+            <td style="border: 1px solid black; text-align: center;">
+                <p>Koopa Troopa</p>
+                <img src="./docs/koopatroopa.gif" alt="Mario Kart" width="60" height="60">
+            </td>
+            <td style="border: 1px solid black; text-align: center;">
+                <p>Velocidade: 2</p>
+                <p>Manobrabilidade: 2</p>
+                <p>Poder: 5</p>
+            </td>       
         </tr>
     </table>
 
