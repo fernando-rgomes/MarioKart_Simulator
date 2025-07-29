@@ -85,9 +85,9 @@
                 <img src="./docs/koopatroopa.gif" alt="Mario Kart" width="60" height="60">
             </td>
             <td style="border: 1px solid black; text-align: center;">
-                <p>Velocidade: 2</p>
-                <p>Manobrabilidade: 2</p>
-                <p>Poder: 5</p>
+                <p>Velocidade: 4</p>
+                <p>Manobrabilidade: 3</p>
+                <p>Poder: 2</p>
             </td>       
         </tr>
     </table>
